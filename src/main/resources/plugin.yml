@@ -1,0 +1,5 @@
+name: Ruby
+version: 1.0
+main: rip.kits.ruby.Ruby
+api-version: 1.15
+author: Noxiuam
